@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Vitor Guedes, natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-SP. Sou apaixonado por tecnologia e venho aprimorando meus conhecimentos em programação ao longo do ultimo ano, com foco em me tornar um desenvolvedor fullstack. Busco oportunidades desafiadoras que possam me levar a um grande crescimento profissional. 
+Olá! Me chamo Vitor Guedes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC-SP. Sou apaixonado por tecnologia e venho aprimorando meus conhecimentos em programação ao longo do ultimo ano, com foco em me tornar um desenvolvedor fullstack. Busco oportunidades desafiadoras que possam me levar a um grande crescimento profissional. 
 
 [linkedIn](www.linkedin.com/in/vitorguilhermeguedes).
 
